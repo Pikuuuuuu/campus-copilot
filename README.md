@@ -2,7 +2,7 @@
 
 **Cited answers to NIT Rourkela rules, straight from official documents, and an honest "I don't know" when the answer isn't there.**
 
-🔗 **Live demo:** [add Streamlit link] · 📄 **[Product spec (PRD)](docs/PRD.md)** · 🎥 **[2-min walkthrough](add Loom link)**
+🔗 **Live demo:** [[add Streamlit link]](https://campus-copilot-gcpbsdb7kpblzfkkehgmmt.streamlit.app/) · 📄 **[Product spec (PRD)](docs/PRD.md)** · 
 
 <!-- Add 2 screenshots here: a cited answer, and the admin content-gaps view -->
 
