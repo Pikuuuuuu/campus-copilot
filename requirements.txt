@@ -1,0 +1,11 @@
+streamlit>=1.50
+requests>=2.32
+numpy>=1.26
+rank-bm25>=0.2.2
+pypdf>=5.0
+pandas>=2.2
+python-dotenv>=1.0
+pytest>=8.0
+
+# Optional extras (only needed if you switch backends):
+# pinecone>=7.0        # hosted vector index instead of the local NumPy one

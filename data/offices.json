@@ -1,0 +1,10 @@
+{
+  "_note": "Escalation directory shown when the assistant cannot answer. Verify every entry against nitrkl.ac.in before going live.",
+  "academics": {"office": "Academic Section (UG/PG)", "how": "Raise a request through NITRIS, or write to the Academic Office from your institute webmail via your Faculty Advisor.", "link": "https://nitrkl.ac.in"},
+  "exams": {"office": "Academic Section (Examinations)", "how": "Speak to your Faculty Advisor first; they can escalate to the Academic Section.", "link": "https://nitrkl.ac.in"},
+  "fees": {"office": "Accounts Section", "how": "Check the latest fee notice on the institute website, then contact Accounts.", "link": "https://nitrkl.ac.in"},
+  "hostel": {"office": "Your Hall of Residence office", "how": "Contact your hall warden or hall office.", "link": "https://nitrkl.ac.in"},
+  "placements": {"office": "Career Development Centre (CDC)", "how": "Check CDC notices or write to the CDC.", "link": "https://nitrkl.ac.in"},
+  "scholarships": {"office": "Scholarship Section", "how": "Check scholarship notices on the institute website.", "link": "https://nitrkl.ac.in"},
+  "general": {"office": "Your Faculty Advisor", "how": "Your Faculty Advisor can route you to the right office.", "link": "https://nitrkl.ac.in"}
+}
